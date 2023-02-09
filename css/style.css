@@ -1,0 +1,21 @@
+button {
+    background-color: blueviolet;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: brown;
+}
+
+input {
+    width: 400px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+input:focus {
+    color: red;
+    font-weight: 700;
+}
