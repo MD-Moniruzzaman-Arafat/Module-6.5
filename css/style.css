@@ -1,4 +1,4 @@
-button {
+/* button {
     background-color: blueviolet;
     color: white;
     padding: 15px 20px;
@@ -18,7 +18,7 @@ input {
 input:focus {
     color: red;
     font-weight: 700;
-}
+} */
 
 /* ul li:first-child {
     color: red;
@@ -30,7 +30,7 @@ input:focus {
 /* ul li:nth-child(2n+1) {
     color: aqua;
 } */
-ul li:last-child {
+/* ul li:last-child {
     color: red;
 }
 
@@ -40,4 +40,4 @@ p::before {
 
 p::after {
     content: " arafat";
-}
+} */
