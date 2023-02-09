@@ -1,1 +1,2 @@
 pseudo class hover, visited, focus.
+first child, nth child, pseudo element before after.
